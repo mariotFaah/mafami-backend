@@ -23,3 +23,8 @@ Le système repose sur une architecture centralisée autour de l'entité Membre,
 3. Technologies de Données
 SGBD : **MySQL** .
 
+##### Pour cette projet on a besoin d installer les middlewares pour faire connecter mysql a express 
+```bash
+npm install mysql express-myconnection
+```
+
